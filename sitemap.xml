@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.ryancbriggs.net/blog</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2024/4/1/reflections-on-a-year-of-rowing</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-04-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2022/7/20/development-studies-programs-should-not-shift-attention-to-the-global-rich</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2022-07-23</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/d2233c02-1eda-4ad4-b776-bb655a09f909/Mil_graph.png</image:loc>
+      <image:title>Blog - Development Studies programs should not shift their attention to the global rich - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2021/5/31/global-poverty-trends-with-national-discounting</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2021-05-31</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/1622483889805-SGGE39L2I4HWAQ6DIJNS/Screen+Shot+2021-05-31+at+1.47.02+PM.png</image:loc>
+      <image:title>Blog - Global poverty trends with national discounting - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/1622483790820-MWX84OX2GOE3VYBUF5MD/Screen+Shot+2021-05-31+at+1.46.46+PM.png</image:loc>
+      <image:title>Blog - Global poverty trends with national discounting - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/1622483523281-6YN7KMSXFSQVRM6QMUAB/Screen+Shot+2021-05-31+at+1.46.19+PM.png</image:loc>
+      <image:title>Blog - Global poverty trends with national discounting - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2021/2/19/the-academic-job-market-in-canada</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2022-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2015/10/1/isaac-is-a-lucky-boy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-04-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/1523387983174-XM2F2CU0PTFYZH5FMSS7/tumblr_inline_nvk1re5Ltc1qz7mwz_500.jpg</image:loc>
+      <image:title>Blog - Isaac is a lucky boy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/blog/2015/3/24/the-drunk-world-bank-twitterbot</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/research</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2024-08-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/home-page</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2022-12-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5acc1ee17e3c3a103525fb2b/1621202008123-0IV38UB6HXV8TE55WQ85/P5160125.jpeg</image:loc>
+      <image:title>Home Page</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/students</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2021-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ryancbriggs.net/teaching</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2023-02-24</lastmod>
+  </url>
+</urlset>
+
